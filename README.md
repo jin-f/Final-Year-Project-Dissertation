@@ -14,6 +14,7 @@ A example object detection model is provided as seen in the project report which
 ```
 python tracker.py
 ```
+The `banana.pt` file represents the object detection model. Within the `tracker.py` script, the object detection model can be changed if you have a custom one available, if not, it can also be set to use the default yolov5 model by setting `model_name` in `load_model` to `None`.
 An alternative version of the tracker is also provided where the object detection model is also used as the feature extractor as described in project report.
 ```
 python tracker_extract_features.py
