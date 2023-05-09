@@ -3,7 +3,7 @@
 ### Getting started
 It is recommended to use a conda environment for this project. Once conda is installed, install a new environment with the following command
 ```
-conda env export > packages.yml
+conda env create -f packages.yml
 ```
 Next, install `pytorch` through the official pytorch website. https://pytorch.org/
 Now install the Zed SDK. Note that the project requires a Zed 2i camera or similar Zed camera to function.
