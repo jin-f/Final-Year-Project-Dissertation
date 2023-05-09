@@ -5,8 +5,8 @@ It is recommended to use a conda environment for this project. Once conda is ins
 ```
 conda env create -f packages.yml
 ```
-Next, install `pytorch` through the official pytorch website. https://pytorch.org/
-Now install the Zed SDK. Note that the project requires a Zed 2i camera or similar Zed camera to function.
+Next, install `pytorch` through the official pytorch website. https://pytorch.org/ \\
+Now install the Zed SDK. Note that the project requires a Zed 2i camera or similar Zed camera to function. \\
 Install the Zed SDK from the official website: https://www.stereolabs.com/developers/release/
 
 ### Running tracker
