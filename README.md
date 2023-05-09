@@ -1,4 +1,4 @@
-# fyp
+# Detecting and tracking edible objects in 3D space
 
 ### Getting started
 It is recommended to use a conda environment for this project. Once conda is installed, install a new environment with the following command
