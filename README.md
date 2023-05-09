@@ -34,3 +34,6 @@ Each iteration that was went through in the project is also available and locate
 ### Training a custom detection model
 Refer to official yolov5 page which recommends Roboflow and provides guides on training custom model.
 https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data
+
+### Note
+For a more in depth guide, refer to the User Manual in the main report.
